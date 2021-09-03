@@ -10,7 +10,7 @@ as a nice visual to display the digit on the board if the model predicted the di
 
 More on the MNIST dataset can be found here - [MNIST](https://www.tensorflow.org/datasets/catalog/mnist)
 
-![Digit Capture with Accuracy](https://github.com/landonbr/raspberrypi-digit-recognition-NN/blob/master/pics/Picture1.png)
+[Digit Capture with Accuracy](https://github.com/landonbr/raspberrypi-digit-recognition-NN/blob/master/pics/Picture1.png)
 
 
-![Sense Hat Output](https://github.com/landonbr/raspberrypi-digit-recognition-NN/blob/master/pics/Picture2.jpg)
+[Sense Hat Output](https://github.com/landonbr/raspberrypi-digit-recognition-NN/blob/master/pics/Picture2.jpg)
