@@ -16,3 +16,18 @@ More on the MNIST dataset can be found here - [MNIST](https://www.tensorflow.org
 
 ### Sense Hat Output
 ![Sense Hat Output](https://github.com/landonbr/raspberrypi-digit-recognition-NN/blob/master/pics/Picture2.jpg)
+
+
+These are some important modules that are neccessary to the CNN model. And a few others that
+are specific to this project alone.
+
+> pip install numpy
+> pip install tensorflow
+> pip install opencv-python
+> pip install picamera
+> pip install sense-hat
+
+Don't forget to create and activate a virtual environment before downloading the packages:
+
+> python3 -m venv "path"
+> source "path"/venv/activate
