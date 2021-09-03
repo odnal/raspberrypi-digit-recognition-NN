@@ -22,12 +22,17 @@ These are some important modules that are neccessary to the CNN model. And a few
 are specific to this project alone.
 
 > pip install numpy
+>
 > pip install tensorflow
+>
 > pip install opencv-python
+>
 > pip install picamera
+>
 > pip install sense-hat
 
 Don't forget to create and activate a virtual environment before downloading the packages:
 
 > python3 -m venv "path"
+>
 > source "path"/venv/activate
