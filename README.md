@@ -19,7 +19,7 @@ More on the MNIST dataset can be found here - [MNIST](https://www.tensorflow.org
 
 
 These are some important modules that are neccessary to the CNN model and a few others that
-are specific to this project alone.
+are specific to this project alone:
 
 > pip install numpy
 >
