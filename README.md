@@ -18,7 +18,7 @@ More on the MNIST dataset can be found here - [MNIST](https://www.tensorflow.org
 ![Sense Hat Output](https://github.com/landonbr/raspberrypi-digit-recognition-NN/blob/master/pics/Picture2.jpg)
 
 
-These are some important modules that are neccessary to the CNN model. And a few others that
+These are some important modules that are neccessary to the CNN model and a few others that
 are specific to this project alone.
 
 > pip install numpy
