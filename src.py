@@ -81,12 +81,12 @@ def main():
             # allows for the capture of multiple array by empting array each capture
             rawCapture.truncate(0)
 
-            cv2.waitkey(delay=1) # wait 1ms for next frame
+            cv2.waitKey(delay=1) # wait 1ms for next frame
 
     except KeyboardInterrupt:
         s.clear()
         cv2.destroyAllWindows()
         camera.close()
 
-if name == "__main__":
+if __name__ == "__main__":
     main()
